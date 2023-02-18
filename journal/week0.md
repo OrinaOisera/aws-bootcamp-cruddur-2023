@@ -11,5 +11,6 @@
      Representation of the actual thing 
     Ip addreses , Ec2 Addresses
 
-1st try on the architecture diagram:
-Link: https://lucid.app/lucidchart/06686680-ec42-4960-b88e-ace317b2cefd/edit?viewport_loc=-1349%2C-170%2C3328%2C1466%2C0_0&invitationId=inv_07da2874-c13b-42dc-be6d-0337c0e2e0cd
+Cruddur Logical Dagram:
+Architecture diagram:!Cruddur](https://github.com/OrinaOisera/aws-bootcamp-cruddur-2023/blob/main/aws_crddur_app.png)
+
