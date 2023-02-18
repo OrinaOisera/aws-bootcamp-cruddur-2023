@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-
+Types of design :
 1. Concenptual Design
       Organizes & defines conecpets & rules
       Napkin design
@@ -10,6 +10,13 @@
 3. Physical Design
      Representation of the actual thing 
     Ip addreses , Ec2 Addresses
+
+AWS set up:
+ 1.Create biling Alarm 
+ 2.Create AWS Budgets 
+
+
+
 
 Cruddur Logical Dagram:
 Architecture diagram:![Cruddur](https://github.com/OrinaOisera/aws-bootcamp-cruddur-2023/blob/main/aws_crddur_app.png)
