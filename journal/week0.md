@@ -12,5 +12,5 @@
     Ip addreses , Ec2 Addresses
 
 Cruddur Logical Dagram:
-Architecture diagram:!Cruddur](https://github.com/OrinaOisera/aws-bootcamp-cruddur-2023/blob/main/aws_crddur_app.png)
+Architecture diagram:![Cruddur](https://github.com/OrinaOisera/aws-bootcamp-cruddur-2023/blob/main/aws_crddur_app.png)
 
