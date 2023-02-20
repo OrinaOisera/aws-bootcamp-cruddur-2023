@@ -14,6 +14,9 @@ Types of design :
 AWS set up:
  1.Create biling Alarm 
  2.Create AWS Budgets 
+ 3. Used aws cloud shell :
+      Commands: 
+         aws sts get-caller-identity
 
 Napkin Design :
 ![Napkin](https://github.com/OrinaOisera/aws-bootcamp-cruddur-2023/blob/main/WhatsApp%20Image%202023-02-20%20at%2018.39.10.jpeg)
