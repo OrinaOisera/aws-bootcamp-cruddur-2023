@@ -23,5 +23,7 @@ Napkin Design :
 
 
 Cruddur Logical Dagram:
+Lucid Chart: https://lucid.app/lucidchart/06686680-ec42-4960-b88e-ace317b2cefd/edit?viewport_loc=-870%2C203%2C3928%2C1730%2C0_0&invitationId=inv_07da2874-c13b-42dc-be6d-0337c0e2e0cd
+
 Architecture diagram:![Cruddur](https://github.com/OrinaOisera/aws-bootcamp-cruddur-2023/blob/main/aws_crddur_app.png)
 
