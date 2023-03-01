@@ -27,3 +27,18 @@ Lucid Chart: https://lucid.app/lucidchart/06686680-ec42-4960-b88e-ace317b2cefd/e
 
 Architecture diagram:![Cruddur](https://github.com/OrinaOisera/aws-bootcamp-cruddur-2023/blob/main/aws_crddur_app.png)
 
+AWS Billing commands:
+aws budgets create-budget \
+    --account-id $AWS_ACCOUNT_ID\
+    --budget file://aws/json/budget.json \
+    --notifications-with-subscribers file://aws/json/budget-notifications-with-subscribers.json
+    
+   AWS sns :
+aws sns subscribe \
+    --topic-arn arn:aws:sns:us-east-1:815724397517:billing-alarm \
+    --protocol email \
+    --notification-endpoint oiseraorina@gmail.com
+    
+   AWS cloud watch:
+ aws cloudwatch put-metric-alarm --cli-input-json file://aws/json/alarm_config.json
+    
