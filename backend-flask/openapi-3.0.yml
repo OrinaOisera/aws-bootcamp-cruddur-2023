@@ -150,7 +150,7 @@ paths:
                   $ref: '#/components/schemas/Message'
   /api/activites/notifications:
     get:
-      description: 'Return a feed of activity for aall those that I follow '
+      description: 'Return a feed of activity for all those that I follow '
       tags:
         - activites
       
